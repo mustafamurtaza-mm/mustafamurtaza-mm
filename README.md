@@ -14,7 +14,6 @@
 ## 🌱 Currently Learning
 
 - Django
-- React
 - Docker
 - System Design
 

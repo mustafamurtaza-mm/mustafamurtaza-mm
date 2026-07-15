@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Mustafa
 
-<!--
-**mustafamurtaza-mm/mustafamurtaza-mm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineer
 
-Here are some ideas to get you started:
+💻 Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- MERN Stack
+- .NET
+- SQL
+- Git & GitHub
+
+## 🌱 Currently Learning
+
+- Django
+- React
+- Docker
+- System Design
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/mustafamurtaza-mm
+- Portfolio: https://my-portfolio-delta-ten-yxtc062lst.vercel.app/
+
+---
+⭐ Thanks for visiting my profile!
